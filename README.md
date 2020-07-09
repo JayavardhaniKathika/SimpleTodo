@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+* Understanding RecyclerView.Adapter was a bit difficult.
+
 ## License
 
     Copyright [2020] [Jayavardhani Kathika]
